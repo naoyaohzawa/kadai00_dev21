@@ -12,3 +12,5 @@ dev21_kadai00_naoyaohzawa_08
 ・レスポンシブに少し対応したが、width, max-width, flex-wrapなどイマイチうまくいかなくて途中でやめた
 ・レスポンシブ時のdl/dt/ddをうまくcssで調整できなかった
 ・dlのborderがうまくいかなったので、多分display flexのやり方間違ってる
+
+https://naoyaohzawa.github.io/kadai00_dev21_08vfinal/
